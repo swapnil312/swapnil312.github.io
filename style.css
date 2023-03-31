@@ -71,7 +71,7 @@ body {
     }
     
 }
-@media (max-width:1250px) {
+@media (max-width:80rem) {
     #div3{
         display: flex;
         flex-direction: column;
